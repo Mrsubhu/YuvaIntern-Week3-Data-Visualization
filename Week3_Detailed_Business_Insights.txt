@@ -1,0 +1,30 @@
+DETAILED BUSINESS INSIGHTS
+========================================
+
+1. Highest revenue month: 2011-11, with revenue of £1,509,496.33.
+
+2. Lowest revenue month: 2011-02, with revenue of £523,631.89.
+
+3. Top 5 products by revenue:
+   - DOTCOM POSTAGE: £206,248.77
+   - REGENCY CAKESTAND 3 TIER: £174,484.74
+   - PAPER CRAFT , LITTLE BIRDIE: £168,469.60
+   - WHITE HANGING HEART T-LIGHT HOLDER: £106,292.77
+   - PARTY BUNTING: £99,504.33
+
+4. Revenue by weekday:
+   - Thursday: £2,203,161.24
+   - Tuesday: £2,178,632.61
+   - Wednesday: £1,851,147.81
+   - Friday: £1,840,340.23
+   - Monday: £1,779,575.04
+   - Sunday: £813,827.61
+
+5. Correlation between Quantity and Revenue: 0.91.
+
+BUSINESS RECOMMENDATIONS
+- Investigate reasons behind lower-revenue months.
+- Monitor high-revenue products and inventory levels.
+- Compare weekday performance to support sales planning.
+- Analyze returns and cancellations separately.
+- Validate patterns before making business decisions.

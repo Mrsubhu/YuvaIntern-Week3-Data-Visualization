@@ -1,0 +1,52 @@
+
+WEEK 3: DATA VISUALIZATION AND REPORTING
+=======================================
+
+CONCLUSION
+----------
+
+1. Monthly Revenue:
+The highest revenue month was 2011-11,
+with gross revenue of £1,509,496.33.
+
+The lowest revenue month was 2011-02,
+with gross revenue of £523,631.89.
+
+2. Product Performance:
+The product generating the highest revenue was
+'DOTCOM POSTAGE', with revenue of £206,248.77.
+
+3. Quantity and Revenue Relationship:
+The correlation between Quantity and Revenue was
+0.91.
+
+4. Visualization:
+Line charts help monitor monthly trends.
+Bar charts compare product performance.
+Scatter plots show relationships between variables.
+Heatmaps summarize correlations between numerical columns.
+
+BUSINESS RECOMMENDATIONS
+------------------------
+
+1. Investigate months with lower revenue to identify
+possible reasons for reduced sales.
+
+2. Monitor top-performing products and maintain
+appropriate inventory levels.
+
+3. Analyze sales quantity, unit prices, returns,
+and cancellations together before making decisions.
+
+4. Use monthly dashboards to track performance
+and support data-driven business decisions.
+
+DATA LIMITATIONS
+----------------
+
+The analysis uses positive quantities and positive
+unit prices for gross sales calculations. Returns
+and cancellations are not included in these gross
+sales figures and should be analyzed separately.
+
+Correlation does not prove causation.
